@@ -113,8 +113,11 @@ section#inicio{
 }
 figure.presentacio-img{
     margin-bottom: 20px;
+    
 }
 figure.presentacion-img img{
 border-radius: 50%;
 width: 400px;
 }
+
+
