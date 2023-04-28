@@ -34,6 +34,7 @@
  }
 h2{
     font-size: 28px;
+    margin: 20px;
 }
 p{
     margin: 16px, o;
@@ -131,6 +132,7 @@ a.btn {
     border-radius: 50px;
     font-size: 20px;
     display: inline-block;
+    margin: 10px;
 }
 
 section.contacto{
@@ -148,27 +150,32 @@ article.contacto{
     width: 90%;
     display: flex;
     flex-direction: row;
-    margin-top: 120%;
+    margin-top: 20%;
    }
 
     figure.email{
         width: 900%;
         max-width: 200px;
         max-height: 400px;
+        margin-right: 10px;
     }
 
     figure.github{
         width: 900%;
-        max-width: 400px;
-        max-height: 200px
-       
+        max-width: 200px;
+        max-height: 400px; 
+        margin-right: 10px;  
+               
     }
 
     figure.linkedin{
         width: 900%;
-        max-width: 400px;
-        max-height: 200px
+        max-width: 200px;
+        max-height: 400px;
+        margin-right: 10px;
+            
     }
+
     footer{
         display: flex;
         justify-content: space-around;
