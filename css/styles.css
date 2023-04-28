@@ -119,7 +119,69 @@ figure.presentacion-img img{
 border-radius: 50%;
 width: 400px;
 }
-article.presentacion{
-
+article.presentacion-texto{
+width: 100%;
+text-align: center;
 }
+
+a.btn {
+    background-color: #af599e;
+    color: #fbfbfb;
+    padding: 12px 20px;
+    border-radius: 50px;
+    font-size: 20px;
+    display: inline-block;
+}
+
+section.contacto{
+    justify-content: space-around;
+    min-height: 50vh;
+}
+
+article.contacto{
+    width: 100%;
+    text-align: center;
+    background: rgba(175, 89, 158, 0.3);
+}
+
+#contactame{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20%;
+    margin-right: 20px;
+    }
+
+    figure.email{
+        width: 900%;
+        max-width: 200px;
+        max-height: 400px;
+    }
+
+    figure.github{
+        width: 900%;
+        max-width: 400px;
+        max-height: 200px
+       
+    }
+
+    figure.linkedin{
+        width: 900%;
+        max-width: 400px;
+        max-height: 200px
+    }
+    footer{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        height: 90px;
+        background: #af599e;
+        color: #fbfbfb;
+    }
+
+    #logo{
+    max-width: 70px;
+    width: 100%;
+    }
 
