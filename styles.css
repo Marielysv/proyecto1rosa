@@ -197,7 +197,6 @@ article.contacto{
         width: 100%;
         height: 90px;
         background: #679b9b;
-        color: #black;
     }
 
     #logo{
@@ -228,3 +227,4 @@ article.contacto{
         transition: #637373;
     }
     
+}
